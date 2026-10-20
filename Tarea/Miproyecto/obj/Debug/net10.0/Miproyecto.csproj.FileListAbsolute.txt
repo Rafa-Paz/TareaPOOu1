@@ -1,0 +1,15 @@
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\bin\Debug\net10.0\Miproyecto.exe
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\bin\Debug\net10.0\Miproyecto.deps.json
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\bin\Debug\net10.0\Miproyecto.runtimeconfig.json
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\bin\Debug\net10.0\Miproyecto.dll
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\bin\Debug\net10.0\Miproyecto.pdb
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\obj\Debug\net10.0\Miproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\obj\Debug\net10.0\Miproyecto.AssemblyInfoInputs.cache
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\obj\Debug\net10.0\Miproyecto.AssemblyInfo.cs
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\obj\Debug\net10.0\Miproyecto.csproj.CoreCompileInputs.cache
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\obj\Debug\net10.0\Miproyecto.sourcelink.json
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\obj\Debug\net10.0\Miproyecto.dll
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\obj\Debug\net10.0\refint\Miproyecto.dll
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\obj\Debug\net10.0\Miproyecto.pdb
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\obj\Debug\net10.0\Miproyecto.genruntimeconfig.cache
+C:\Users\rpaz4\Poo_Tarea1\Tarea\Miproyecto\obj\Debug\net10.0\ref\Miproyecto.dll
